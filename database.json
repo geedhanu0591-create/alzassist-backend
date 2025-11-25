@@ -1,0 +1,277 @@
+{
+  "users": [
+    {
+      "id": 1764046754076,
+      "role": "patient",
+      "name": "Dhanush",
+      "email": "dhanushwork95@gmail.com",
+      "password": "Dhanu9591"
+    },
+    {
+      "id": 1764049045225,
+      "role": "caretaker",
+      "name": "Theju ",
+      "email": "theju@gmail.com",
+      "password": "Theju@123"
+    }
+  ],
+  "patients": [
+    {
+      "id": 1764048976571,
+      "ownerId": 1764046754076,
+      "name": "saaz ",
+      "relation": "Friend ",
+      "phone": "9591726862",
+      "photo": "3e7b3130201f04da5129b4b30db3c212"
+    },
+    {
+      "id": 1764050321464,
+      "ownerId": null,
+      "name": "Theju ",
+      "relation": "Care taker ",
+      "phone": "9591726862",
+      "photo": "6b22350d434ba301bef13778c81a9b7e"
+    }
+  ],
+  "caretakers": [
+    {
+      "caretakerId": 1764049045225,
+      "patientId": 1764046754076
+    },
+    {
+      "caretakerId": 1764049045225,
+      "patientId": 1764046754076
+    },
+    {
+      "caretakerId": 1764049045225,
+      "patientId": 1764046754076
+    },
+    {
+      "caretakerId": 1764049045225,
+      "patientId": 1764046754076
+    }
+  ],
+  "caregivers": [],
+  "notifications": [
+    {
+      "id": "1764053342029",
+      "type": "sos",
+      "message": "SOS from Dhanush",
+      "time": 1764053342029,
+      "read": false
+    },
+    {
+      "id": "1764053486956",
+      "type": "sos",
+      "message": "SOS from Dhanush",
+      "time": 1764053486956,
+      "read": false
+    }
+  ],
+  "locationHistory": [
+    {
+      "userId": "dhanushwork95@gmail.com",
+      "lat": 12.9204224,
+      "lng": 77.6044544,
+      "time": 1764046800927
+    },
+    {
+      "userId": "dhanushwork95@gmail.com",
+      "lat": 12.9204224,
+      "lng": 77.6044544,
+      "time": 1764046802076
+    },
+    {
+      "userId": 1764046754076,
+      "lat": 13.1711336,
+      "lng": 77.5527541,
+      "time": 1764048640093
+    },
+    {
+      "userId": 1764046754076,
+      "lat": 13.1711336,
+      "lng": 77.5527541,
+      "time": 1764048641955
+    },
+    {
+      "userId": 1764046754076,
+      "lat": 13.1711336,
+      "lng": 77.5527541,
+      "time": 1764048648890
+    },
+    {
+      "userId": 1764046754076,
+      "lat": 13.1711336,
+      "lng": 77.5527541,
+      "time": 1764048650331
+    },
+    {
+      "userId": 1764046754076,
+      "lat": 13.1711336,
+      "lng": 77.5527541,
+      "time": 1764048652195
+    },
+    {
+      "userId": 1764046754076,
+      "lat": 12.9204224,
+      "lng": 77.6044544,
+      "time": 1764048780410
+    },
+    {
+      "userId": 1764046754076,
+      "lat": 12.9204224,
+      "lng": 77.6044544,
+      "time": 1764048839237
+    },
+    {
+      "userId": 1764046754076,
+      "lat": 12.9204224,
+      "lng": 77.6044544,
+      "time": 1764048841210
+    },
+    {
+      "userId": 1764046754076,
+      "lat": 12.9204224,
+      "lng": 77.6044544,
+      "time": 1764048910103
+    },
+    {
+      "userId": 1764046754076,
+      "lat": 12.9204224,
+      "lng": 77.6044544,
+      "time": 1764048987053
+    },
+    {
+      "userId": 1764046754076,
+      "lat": 12.9204224,
+      "lng": 77.6044544,
+      "time": 1764048989247
+    },
+    {
+      "userId": 1764046754076,
+      "lat": 12.9204224,
+      "lng": 77.6044544,
+      "time": 1764049005350
+    },
+    {
+      "userId": 1764046754076,
+      "lat": 12.9204224,
+      "lng": 77.6044544,
+      "time": 1764049007358
+    },
+    {
+      "userId": 1764046754076,
+      "lat": 12.9204224,
+      "lng": 77.6044544,
+      "time": 1764049143571
+    },
+    {
+      "userId": 1764046754076,
+      "lat": 12.9204224,
+      "lng": 77.6044544,
+      "time": 1764049145707
+    },
+    {
+      "userId": 1764046754076,
+      "lat": 12.9204224,
+      "lng": 77.6044544,
+      "time": 1764049159730
+    },
+    {
+      "userId": 1764046754076,
+      "lat": 12.9204224,
+      "lng": 77.6044544,
+      "time": 1764049161763
+    },
+    {
+      "userId": 1764046754076,
+      "lat": 12.9204224,
+      "lng": 77.6044544,
+      "time": 1764049180665
+    },
+    {
+      "userId": 1764046754076,
+      "lat": 13.1709697,
+      "lng": 77.5528594,
+      "time": 1764049911282
+    },
+    {
+      "userId": 1764046754076,
+      "lat": 12.9204224,
+      "lng": 77.6044544,
+      "time": 1764050041356
+    },
+    {
+      "userId": "dhanushwork95@gmail.com",
+      "lat": 12.9204224,
+      "lng": 77.6044544,
+      "time": 1764050252341
+    },
+    {
+      "userId": "dhanushwork95@gmail.com",
+      "lat": 12.9204224,
+      "lng": 77.6044544,
+      "time": 1764050264210
+    },
+    {
+      "userId": "dhanushwork95@gmail.com",
+      "lat": 12.9204224,
+      "lng": 77.6044544,
+      "time": 1764050291567
+    },
+    {
+      "userId": "dhanushwork95@gmail.com",
+      "lat": 12.9204224,
+      "lng": 77.6044544,
+      "time": 1764050293662
+    },
+    {
+      "userId": "dhanushwork95@gmail.com",
+      "lat": 12.9204224,
+      "lng": 77.6044544,
+      "time": 1764050327619
+    },
+    {
+      "userId": "dhanushwork95@gmail.com",
+      "lat": 12.9204224,
+      "lng": 77.6044544,
+      "time": 1764050329656
+    },
+    {
+      "userId": "dhanushwork95@gmail.com",
+      "lat": 12.9204224,
+      "lng": 77.6044544,
+      "time": 1764050331572
+    },
+    {
+      "userId": "dhanushwork95@gmail.com",
+      "lat": 12.9204224,
+      "lng": 77.6044544,
+      "time": 1764050339357
+    },
+    {
+      "userId": "dhanushwork95@gmail.com",
+      "lat": 12.9204224,
+      "lng": 77.6044544,
+      "time": 1764050341444
+    },
+    {
+      "userId": "dhanushwork95@gmail.com",
+      "lat": 12.9204224,
+      "lng": 77.6044544,
+      "time": 1764050361206
+    },
+    {
+      "userId": "dhanushwork95@gmail.com",
+      "lat": 12.9204224,
+      "lng": 77.6044544,
+      "time": 1764050363339
+    },
+    {
+      "userId": "dhanushwork95@gmail.com",
+      "lat": 12.9204224,
+      "lng": 77.6044544,
+      "time": 1764050489985
+    }
+  ]
+}
